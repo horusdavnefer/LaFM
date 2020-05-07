@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">LaFM</string>
+    <string name="app_keyAPI">829751643419a7128b7ada50de590067</string>
+    <string name="developer_name">David Durán</string>
+    <string name="artists_title">Artistas</string>
+    <string name="tracks_title">Canciones</string>
+    <string name="tryAgain">Intentar de nuevo</string>
+    <string name="goURL">Visitar URL del artista</string>
+    <string name="goURLTrack">Visitar URL de la canción</string>
 </resources>
